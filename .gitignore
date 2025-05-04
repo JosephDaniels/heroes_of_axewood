@@ -1,0 +1,13 @@
+.import/
+.export/
+.export_debug/
+*.import
+*.tmp
+*.log
+*.mono
+.cache/
+
+# Godot-specific
+/.godot/
+*.cfg
+*.db
